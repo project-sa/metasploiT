@@ -7,7 +7,7 @@ $pkg update && pkg upgrade
 $pkg install curl
 $pkg install python
 $pkg install python2
-$curl -LO https://github.com/project-sa/metasploiT.sh
+$curl -LO https://github.com/project-sa/metasploiT
 $ls
 $chmod 777 metasploiT.sh
 $./metasploiT.sh
